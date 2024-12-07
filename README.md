@@ -5,7 +5,7 @@
 
 <div style="display: flex;">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=queirogaraffael&count_private=true&show_icons=true&theme=tokyonight" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queirogaraffael&theme=tokyonight" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queirogaraffael&theme=tokyonight&repo=supermerkatDatabase" />
 </div>
 
 <!--
