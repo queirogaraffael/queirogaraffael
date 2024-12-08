@@ -11,7 +11,7 @@
 
 ### Core Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,aws,redis,mysql,docker,mongodb,k6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,aws,redis,postgres,mysql,docker,mongodb)](https://skillicons.dev)
 
 <!--
 **queirogaraffael/queirogaraffael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
