@@ -21,6 +21,9 @@ Back-end Developer specializing in **Java** and the **Spring ecosystem**. I'm pa
   <a href="https://raffaelqueiroga.notion.site/1cb0fc66429948f7bf8134da3c85a0be?v=1ac98b3a21b44abd8e14c047d9833407&pvs=4" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   </a>
+  <a href="https://linktr.ee/raffaelqueiroga" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-0fa75d?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
+  </a>
 </p>
 
 ---
