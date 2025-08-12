@@ -2,7 +2,7 @@
 
 **Back-end** Developer specializing in **Java**, the **Spring ecosystem**, and **Cloud** technologies. I'm passionate about building scalable, resilient systems by applying solid **Software Engineering** and **DevOps** principles. I'm also delving into **Artificial Intelligence** to create smarter, more efficient solutions.
 
-- 🎓 I'm currently studying Information Systems at [Unifacisa](https://unifacisa.edu.br/), with previous studies in Electrical Engineering from [UFCG](https://portal.ufcg.edu.br/).
+- 🎓 Currently studying Information Systems at [Unifacisa](https://unifacisa.edu.br/), with previous studies in Electrical Engineering from [UFCG](https://portal.ufcg.edu.br/).
 - ☁️ **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/b5e2220c-dda8-42d6-b59e-f3edfe61f9be/public_url)**, constantly exploring scalable cloud architectures.
 - 🌍 Language Skills: English (Advanced/B2) and German (Intermediate/B1).
 - 🏇 Outside of tech, I enjoy horseback riding, volleyball, and connecting with nature.
