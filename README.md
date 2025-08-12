@@ -1,29 +1,30 @@
-### Hi, I'm Raffael Queiroga!
+# Hi there, I'm Raffael Queiroga! 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raffael-queiroga-59b2bb256)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)]([https://gitlab.com/SEU_USUARIO](https://gitlab.com/raffaelqueiroga))
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://raffaelqueiroga.notion.site/1cb0fc66429948f7bf8134da3c85a0be?v=1ac98b3a21b44abd8e14c047d9833407&pvs=4)
+Back-end Developer specializing in **Java** and the **Spring ecosystem**. I'm passionate about building scalable, resilient systems by applying solid Software Engineering and DevOps principles. I'm also delving into **Artificial Intelligence** to create smarter, more efficient solutions.
 
-<div style="display: flex;">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=queirogaraffael&count_private=true&show_icons=true&theme=tokyonight" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queirogaraffael&theme=tokyonight" />
-</div>
+- 🎓 Pursuing a B.S. in Information Systems at [Unifacisa](https://unifacisa.edu.br/), with a background in Electrical Engineering from [UFCG](https://portal.ufcg.edu.br/).
+- ☁️ **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/b5e2220c-dda8-42d6-b59e-f3edfe61f9be/public_url)**, constantly exploring scalable cloud architectures.
+- 🌍 Language Skills: English (Advanced/B2) and German (Intermediate/B1).
+- 🏇 Outside of tech, I enjoy horseback riding, volleyball, and connecting with nature.
 
-### Core Technologies
+---
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,aws,redis,mysql,docker,mongodb,k6)](https://skillicons.dev)
+### 🌐 Connect with Me
 
-<!--
-**queirogaraffael/queirogaraffael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://queirogaraffael.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/raffaelqueiroga/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://raffaelqueiroga.notion.site/1cb0fc66429948f7bf8134da3c85a0be?v=1ac98b3a21b44abd8e14c047d9833407&pvs=4" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postman,kafka,redis,mongodb,postgres,mysql,docker,aws,terraform,linux,git)](https://skillicons.dev)
