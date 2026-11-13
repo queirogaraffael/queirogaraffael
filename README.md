@@ -1,18 +1,10 @@
 ## Raffael Queiroga
 
-Back-end developer focused on Java and Spring Boot. I build scalable back-end systems and work across DevOps, cloud and testing.
+Back-end developer focused on **Java** and **Spring Boot**, with hands-on experience in **testing**, **monitoring** and **AWS**. Currently a **Software Engineer Intern at DBC** and studying for the **AWS Certified Solutions Architect Associate (SAA-C03)**. Certified as **AWS Cloud Practitioner (2025)** and **MongoDB Associate Developer, Java (2026)**.
 
 ![Portuguese](https://img.shields.io/badge/Portuguese-009C3B?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-012169?style=for-the-badge)
 ![German](https://img.shields.io/badge/German-000000?style=for-the-badge)
-
-### Currently
-- Software Engineer Intern at DBC
-- Studying for the AWS Certified Solutions Architect Associate (SAA-C03)
-
-### Certifications
-- AWS Certified Cloud Practitioner (2025)
-- MongoDB Associate Developer, Java (2026)
 
 ### Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
